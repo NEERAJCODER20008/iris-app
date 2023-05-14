@@ -4,7 +4,7 @@ pip install pandas
 
 pip install scipy
 
-pip install matplotlib
+pip install matplotlib.pyplot
 
 pip install seaborn
 
